@@ -1,0 +1,4 @@
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/main.c:71:5:main	8	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/main.c:128:6:SystemClock_Config	88	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/main.c:182:6:HAL_TIM_PeriodElapsedCallback	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/main.c:200:6:Error_Handler	4	static

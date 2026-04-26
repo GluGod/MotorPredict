@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/build/cmake_install.cmake",
+		"D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

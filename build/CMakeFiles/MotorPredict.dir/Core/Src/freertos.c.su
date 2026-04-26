@@ -1,0 +1,10 @@
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:89:6:vApplicationGetIdleTaskMemory	24	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:102:6:vApplicationGetTimerTaskMemory	24	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:116:6:MX_FREERTOS_Init	296	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:204:6:StartDefaultTask	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:222:6:StartTaskSensor	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:240:6:StartTaskControl	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:258:6:StartTaskFeature	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:276:6:StartTaskDiagnosis	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:294:6:StartTaskReport	16	static
+D:/CubeMX_Workspace/STM32F103C8T6/MotorPredict/Core/Src/freertos.c:312:6:StartTaskMonitor	16	static
